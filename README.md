@@ -4,7 +4,7 @@
 
 Script simplu care verifică periodic un username pe Instagram și îți trimite email când se schimbă statusul.
 
-> Pentru instalare și rulare completă (inclusiv systemd), vezi `SETUP.md`.
+> Pentru instalare și rulare completă (inclusiv systemd), vezi [SETUP.md](SETUP.md).
 
 ## Ce face (pe scurt)
 - Verifică username-ul folosind `curl` + cookies/CSRF.
